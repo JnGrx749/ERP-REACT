@@ -61,7 +61,9 @@ export default function Sidebar1() {
               </li>
               <li>
                 <i className="pi pi-info-circle"></i>
-                <Link to="/Portafolio">Portafolio</Link>
+                <a href="https://jngrx749.github.io/MI_PORTAFOLIO/" target="_blank" rel="noopener noreferrer">
+                Portafolio
+                </a>
               </li>
               <li>
                 <i className="pi pi-cog"></i>
