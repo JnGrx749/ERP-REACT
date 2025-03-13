@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ERP-REACT/static/css/main.c10f4a8b.css",
-    "main.js": "/ERP-REACT/static/js/main.7ae8c970.js",
+    "main.js": "/ERP-REACT/static/js/main.82198000.js",
     "static/js/488.6c5c4e30.chunk.js": "/ERP-REACT/static/js/488.6c5c4e30.chunk.js",
     "static/media/primeicons.svg": "/ERP-REACT/static/media/primeicons.6ed59f962963a4a73af2.svg",
     "static/media/Fondo2.jpg": "/ERP-REACT/static/media/Fondo2.50a9a171e2e0d2096413.jpg",
@@ -11,11 +11,11 @@
     "static/media/primeicons.woff2": "/ERP-REACT/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "index.html": "/ERP-REACT/index.html",
     "main.c10f4a8b.css.map": "/ERP-REACT/static/css/main.c10f4a8b.css.map",
-    "main.7ae8c970.js.map": "/ERP-REACT/static/js/main.7ae8c970.js.map",
+    "main.82198000.js.map": "/ERP-REACT/static/js/main.82198000.js.map",
     "488.6c5c4e30.chunk.js.map": "/ERP-REACT/static/js/488.6c5c4e30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c10f4a8b.css",
-    "static/js/main.7ae8c970.js"
+    "static/js/main.82198000.js"
   ]
 }
